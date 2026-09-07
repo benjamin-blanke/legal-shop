@@ -1,0 +1,1 @@
+.field{display:grid;gap:.45rem}.field label{font-size:.7rem;font-weight:900;letter-spacing:.12em}.field input,.field textarea,.field select{border:1px solid var(--line);background:var(--panel);color:var(--white);padding:1rem;min-height:50px}.field textarea{min-height:150px}.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}.form-grid .wide{grid-column:1/-1}

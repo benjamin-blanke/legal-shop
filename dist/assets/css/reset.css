@@ -1,0 +1,1 @@
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--black);color:var(--white);font-family:var(--body);font-size:16px;overflow-x:hidden}img{max-width:100%;display:block}button,input,textarea,select{font:inherit}button,a{color:inherit}a{text-decoration:none}button{cursor:pointer}

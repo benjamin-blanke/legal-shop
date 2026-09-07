@@ -1,0 +1,1 @@
+import{toast}from'./toast.js';export function initNewsletter(){document.querySelector('[data-newsletter]')?.addEventListener('submit',e=>{e.preventDefault();e.currentTarget.reset();toast('ERFOLGREICH NICHT ANGEMELDET.')})}

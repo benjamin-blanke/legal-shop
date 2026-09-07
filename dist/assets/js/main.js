@@ -1,0 +1,1 @@
+import{initCart}from'./components/cart.js';import{initNewsletter}from'./components/newsletter.js';import{initMenu}from'./components/menu.js';export async function boot(){await initCart();initNewsletter();initMenu()}boot();

@@ -1,0 +1,1 @@
+export const PRODUCT_SLUGS=['wlan-kabel','blinkerwasser','getriebesand','druckluft','usb-ohne-enden','eckiger-kreis','schatten','gedankenleser','pixelpolitur','auspuffduft','akku-strom','zimmerlautstaerke','montagsmotivation','winterluft','kabelentwirrer','tuergriff-innen'];

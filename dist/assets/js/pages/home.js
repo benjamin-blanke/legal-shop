@@ -1,0 +1,1 @@
+import{loadProducts}from'../core/api.js';import{card}from'../components/product-card.js';import'../main.js';const items=await loadProducts();document.querySelector('[data-featured]').innerHTML=items.slice(0,8).map(card).join('');

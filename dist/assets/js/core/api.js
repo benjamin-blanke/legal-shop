@@ -1,0 +1,1 @@
+import{PRODUCT_SLUGS}from'./config.js';export async function loadProducts(){return Promise.all(PRODUCT_SLUGS.map(s=>fetch('/assets/data/products/'+s+'.json').then(r=>r.json())))}export const loadProduct=s=>fetch('/assets/data/products/'+s+'.json').then(r=>r.json());

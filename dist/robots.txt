@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sehr-serioes-shop.benjaminoliver379785.chatgpt.site/sitemap.xml

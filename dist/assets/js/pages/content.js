@@ -1,0 +1,1 @@
+import'../main.js';document.querySelector('[data-contact]')?.addEventListener('submit',e=>{e.preventDefault();e.currentTarget.innerHTML='<div class="contact-card"><b>NACHRICHT NICHT GESENDET.</b><p>Unser Support hat sie bereits vorsorglich ignoriert.</p></div>'});

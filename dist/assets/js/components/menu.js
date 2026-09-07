@@ -1,0 +1,1 @@
+export function initMenu(){document.querySelector('[data-menu]')?.addEventListener('click',e=>{const nav=document.querySelector('.site-header nav');nav?.classList.toggle('open');e.currentTarget.textContent=nav?.classList.contains('open')?'ZU':'MENÜ'})}

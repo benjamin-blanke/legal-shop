@@ -1,0 +1,1 @@
+import{storage}from'../core/storage.js';import{toast}from'./toast.js';export function toggleWish(slug){let w=storage.get('serioes-wishlist',[]);w=w.includes(slug)?w.filter(x=>x!==slug):[...w,slug];storage.set('serioes-wishlist',w);toast('WUNSCHLISTE AKTUALISIERT');return w}
