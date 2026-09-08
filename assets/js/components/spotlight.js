@@ -1,0 +1,1 @@
+export function initSpotlight(){const hero=document.querySelector('.v4-hero');if(!hero)return;hero.addEventListener('pointermove',e=>{const r=hero.getBoundingClientRect();hero.style.background=`radial-gradient(circle at ${e.clientX-r.left}px ${e.clientY-r.top}px,#25283a 0,#090909 36%,#020202 68%)`})}

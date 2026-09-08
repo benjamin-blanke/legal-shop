@@ -1,14 +1,15 @@
 # Sehr Seriös Shop
 
-Humoristischer, vollständig statischer Demo-Shop im Industrial-/Brutalist-Stil.
+Humoristischer, vollständig statischer Concept-Store mit eigenständigem monochromem Designsystem.
 
 ## Umfang
 
-- mehr als 80 Projektdateien
-- mehr als 20 Ordner
-- 12 Seiten und 16 datengetriebene Produkte
-- modulare CSS- und JavaScript-Struktur
-- Suche, Filter, Warenkorb, Wunschliste und Demo-Checkout
+- 548 Projektdateien in 68 Verzeichnissen
+- 46 Seiten und 120 datengetriebene Produkte
+- modulares V5-Designsystem mit Grid-/Listenansicht und responsiven Editorial-Flächen
+- individuelle Produkt-, Review- und SEO-Datensätze
+- Suche, Kategorien, Sortierung, Preisfilter, Vergleich, zuletzt angesehen, Warenkorb und Wunschliste
+- Lookbook, Journal, Ratgeber, Collections, Concierge, Membership und Demo-Checkout
 - keine echten Zahlungen oder Bestellungen
 
 Alle auslieferbaren Dateien liegen in `dist/`.

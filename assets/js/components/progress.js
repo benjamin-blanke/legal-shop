@@ -1,0 +1,1 @@
+export function initProgress(){const bar=document.createElement('div');bar.style='position:fixed;top:0;left:0;height:2px;background:#6e7dff;z-index:200;width:0;transition:width .08s';document.body.append(bar);addEventListener('scroll',()=>bar.style.width=(scrollY/(document.documentElement.scrollHeight-innerHeight)*100)+'%',{passive:true})}
