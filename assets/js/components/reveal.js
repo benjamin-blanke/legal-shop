@@ -1,0 +1,1 @@
+export function initReveal(){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('revealed')}),{threshold:.08});document.querySelectorAll('.product-card,.editorial-head,.collection-stage>a,.journal-grid>a').forEach(e=>io.observe(e))}

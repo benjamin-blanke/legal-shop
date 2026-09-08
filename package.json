@@ -1,0 +1,1 @@
+{"name":"sehr-serioes-shop","version":"4.0.0","private":true,"type":"module","scripts":{"serve":"npx serve .","check":"node scripts/validate.mjs"},"description":"Modern monochrome satire storefront with 52 fictional products.","license":"MIT"}

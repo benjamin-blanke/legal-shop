@@ -1,0 +1,1 @@
+export function initHeader(){let y=scrollY;addEventListener('scroll',()=>{const h=document.querySelector('.v4-header');if(!h)return;h.style.transform=scrollY>y&&scrollY>180?'translateY(-100%)':'translateY(0)';y=scrollY},{passive:true})}
